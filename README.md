@@ -1,3 +1,3 @@
 # kostiuchek-211-351-webdev-exam-2023-2
-I haven't done the project yet due to the workload of other exams :c
-But I will try very hard to do it before the exam
+Я сделал!!!
+![club-penguin-penguin](https://github.com/WadKos/kostiuchek-211-351-webdev-exam-2023-2/assets/39043581/5968b7f1-b37c-44dc-aa94-a6a9b138db8d)
